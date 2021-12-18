@@ -1,1 +1,2 @@
 # MNIST-Digit-Recognition-Using-a-Shallow-Neural-Network
+implementation a shallow neural network using Tensorflow. One major advantage of using a deep learning library is that the libraries can automatically handle the feed-forwarding and the back-propagation rules. Furthermore, these libraries are highly optimized to run very efficiently, which is very important especially in the case of a deep model.
